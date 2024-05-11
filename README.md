@@ -4,6 +4,8 @@
   
   ## Description
 
+  Demo Link: https://drive.google.com/file/d/1Z0CiXePlWwogvCzNUKpEH8PhAFMzrqte/view?usp=drive_link
+
   This project is a robust and scalable solution for building and managing a database-driven RESTful API using Express.js, Sequelize, and PostgreSQL. It facilitates seamless communication between the client and server while ensuring efficient database operations.
 
   Key Features:
